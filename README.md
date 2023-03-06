@@ -62,10 +62,12 @@ Si se desea realizar la ejecución a través del IDE de desarrollo, se debe sele
 ![img_1.png](img_1.png)
 
 ## Video de configuracion y ejecución:
-https://drive.google.com/file/d/1CgWfoLqRbgE7bk21JMrlCzGYBN8w8Oro/view?usp=sharing
-  
+
+[![Watch the video](img_3.png)](https://drive.google.com/file/d/1CgWfoLqRbgE7bk21JMrlCzGYBN8w8Oro/view?usp=sharing)
+
+
 ---
 ## ️Autores
-* **Cristian Hernandez Z.** - **TCS** - [CristianHdezZ](https://github.com/CristianHdezZ/)
+* **Cristian Hernandez Z.**  - [CristianHdezZ](https://github.com/CristianHdezZ/)
 ---
 
